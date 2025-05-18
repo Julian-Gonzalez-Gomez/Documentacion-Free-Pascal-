@@ -1,27 +1,18 @@
-### Índice
-[[#1 - Tipos de Datos]]
-[[#2 - Operadores Lógicos]]
-[[#3 - Estructuras de Control]]
-	[[#3.1 - IF]]
-	[[#3.2 - While]]
-	[[#3.3 - Repeat Until]]
-	[[#3.4 - For]]
-[[#4 - Procedimientos Y Funciones]]
-	[[#4.1 - Procedure]]
-	[[#4.2 - Function]]
-[[#5 - Registros]]
-	[[#5.1 - Register]]
-[[#6 - Arreglos (Vectores)]]
-	[[#6.1 - Declaración]]
-	[[#6.2 - Recorrido]]
-[[#7 - Punteros]]
-	[[#7.1 - Declaración]]
-	[[#7.2 - Asignación dinámica]]
-[[#8 - Estructuras Recomendadas]]
-	[[#8.1 - Condiciones de Corte]]
-		[[#8.1.1 - Por valor de dato]]
-		[[#8.1.2 - Por Repeat]]
-	[[#8.2 - Acumuladores y Contadores]]
+[1 - Tipos de Datos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#1---tipos-de-datos)
+
+[2 - Operadores Logicos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#2---operadores-logicos)
+
+[3 - Estructuras de Control](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#3---estructuras-de-control)
+
+[4 - Procedimientos y Funciones](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#4---procedimientos-y-funciones)
+
+[5 - Registros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#5---registros)
+
+[6 - Arreglos (Vectores)](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#6---arreglos-(vectores))
+
+[7 - Punteros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#7---punteros)
+
+[8- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#8---estructuras-recomendadas)
 ### 1 - Tipos de Datos
 
 | Sintaxis | Dato                 |
