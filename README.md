@@ -115,7 +115,7 @@ for i := 1 to dimL do
 ### 7 - Punteros
 #### Sintaxis
 ```
-puntero_cadena = ^cadena;
+puntero_cadena = ^string/integer/real/boolean/regiter/array;
 ```
 ```
 p: puntero_producto;
