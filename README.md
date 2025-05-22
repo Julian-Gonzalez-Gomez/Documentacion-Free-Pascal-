@@ -13,6 +13,8 @@
 [7 - Punteros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#7---punteros)
 
 [8- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#8---estructuras-recomendadas)
+
+]
 ### 1 - Tipos de Datos
 
 | Sintaxis | Dato                 |
@@ -111,18 +113,26 @@ for i := 1 to dimL do
   writeln(vector[i]);
 ```
 ### 7 - Punteros
-#### 7.1 - Declaración
+#### Sintaxis
 ```
-type
-  puntero = ^integer;
-var
-  p: puntero;
+puntero_cadena = ^cadena;
 ```
-#### 7.2 - Asignación dinámica
+```
+p: puntero_producto;
+```
+#### Instruciones
+New
 ```
 new(p);
-p^ := 25;
+```
+Depose
+```
 dispose(p);
+```
+Sizeof
+```
+writeln(sizeof(p^), ' bytes'); imprime 8/4 bytes
+writeln(sizeof(p), ' bytes');  imprime el tamaño de lo que 'p' contenga
 ```
 ### 8 - Estructuras Recomendadas
 #### 8.1 - Condiciones de Corte
