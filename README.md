@@ -12,9 +12,11 @@
 
 [7 - Punteros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#7---punteros)
 
-[8- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#8---estructuras-recomendadas)
+[8- Listas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#8---listas)
 
-]
+[9- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#9---estructuras-recomendadas)
+
+
 ### 1 - Tipos de Datos
 
 | Sintaxis | Dato                 |
@@ -134,22 +136,25 @@ Sizeof
 writeln(sizeof(p^), ' bytes'); imprime 8/4 bytes
 writeln(sizeof(p), ' bytes');  imprime el tamaño de lo que 'p' contenga
 ```
-### 8 - Estructuras Recomendadas
-#### 8.1 - Condiciones de Corte
-##### 8.1.1 - Por valor de dato
+### 8 - Listas
+```
+```
+### 9 - Estructuras Recomendadas
+#### 9.1 - Condiciones de Corte
+##### 9.1.1 - Por valor de dato
 ```
 while (codigo <> 0) do
 begin
   read(codigo);
 end;
 ```
-##### 8.1.2 - Por Repeat
+##### 9.1.2 - Por Repeat
 ```
 repeat
   read(numero);
 until (numero = 100);
 ```
-#### 8.2 - Acumuladores y Contadores
+#### 9.2 - Acumuladores y Contadores
 ```
 total := 0;
 cant := 0;
