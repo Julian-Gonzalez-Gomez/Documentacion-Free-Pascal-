@@ -1,3 +1,5 @@
+<h1 align =  " center" > SINTAXIS FREE PASCAL </h1>
+
 [1 - Tipos de Datos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#1---tipos-de-datos)
 
 [2 - Operadores Logicos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#2---operadores-logicos)
