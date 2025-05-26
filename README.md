@@ -1,18 +1,18 @@
-[1 - Tipos de Datos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#1---tipos-de-datos)
+[1 - Tipos de Datos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#1---tipos-de-datos)
 
-[2 - Operadores Logicos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#2---operadores-logicos)
+[2 - Operadores Logicos](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#2---operadores-logicos)
 
-[3 - Estructuras de Control](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#3---estructuras-de-control)
+[3 - Estructuras de Control](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#3---estructuras-de-control)
 
-[4 - Procedimientos y Funciones](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#4---procedimientos-y-funciones)
+[4 - Procedimientos y Funciones](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#4---procedimientos-y-funciones)
 
-[5 - Registros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#5---registros)
+[5 - Registros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#5---registros)
 
-[6 - Arreglos (Vectores)](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#6---arreglos-(vectores))
+[6 - Arreglos (Vectores)](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#6---arreglos-(vectores))
 
-[7 - Punteros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#7---punteros)
+[7 - Punteros](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#7---punteros)
 
-[8- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-/edit/main/README.md#8---estructuras-recomendadas)
+[8- Estructuras Recomendadas](https://github.com/Julian-Gonzalez-Gomez/Documentacion-Free-Pascal-?tab=readme-ov-file#8---estructuras-recomendadas)
 
 ]
 ### 1 - Tipos de Datos
